@@ -1,0 +1,9 @@
+/mnt/agents/output/FileRenamer/bin/FileRenamer.exe.config
+/mnt/agents/output/FileRenamer/bin/FileRenamer.exe
+/mnt/agents/output/FileRenamer/bin/FileRenamer.pdb
+/mnt/agents/output/FileRenamer/obj/Release/net48/FileRenamer.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/agents/output/FileRenamer/obj/Release/net48/FileRenamer.AssemblyInfoInputs.cache
+/mnt/agents/output/FileRenamer/obj/Release/net48/FileRenamer.AssemblyInfo.cs
+/mnt/agents/output/FileRenamer/obj/Release/net48/FileRenamer.csproj.CoreCompileInputs.cache
+/mnt/agents/output/FileRenamer/obj/Release/net48/FileRenamer.exe
+/mnt/agents/output/FileRenamer/obj/Release/net48/FileRenamer.pdb
